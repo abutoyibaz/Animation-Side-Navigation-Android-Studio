@@ -1,3 +1,3 @@
 # Animation-Side-Navigation-Android-Studio
 
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
